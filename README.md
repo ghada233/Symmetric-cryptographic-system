@@ -1,7 +1,7 @@
 # symmetric-cryptographic-system :closed_lock_with_key:
-- that encrypts/decrypts all text files in a given folder or single text file
+> that encrypts/decrypts all text files in a given folder or single text file
 
-> The general steps to encrypt/decrypt a file in Java are as follows:
+- The general steps to encrypt/decrypt a file in Java are as follows:
 
 1. Get the key from the user. DES algorithm requires a 64-bit key while AES operates on a default key size of 192 bits.
 
