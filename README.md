@@ -39,38 +39,8 @@ the programing will send to you notification about it like :
 >Reference:
 -----------------------------------------------------------------------------------
 https://www.youtube.com/watch?v=zn_kg55GRWo&t=341s
+
 https://www.baeldung.com/java-aes-encryption-decryption
 
 -----------------------------------------------------------------------------------
 
-run:
-
- A SYMMETRIC CRYPTO SYSTEM
-======================================= 
-MAIN MENU 
-------------------------------------- 
-1. Encrypt 
-2. Decrypt 
-3. Exit 
------------------------------------------
-
-Enter your choice: 1
-(1) File (2) Folder 
-Enter your choice: 1
-Type your file name : G&M.txt //or input url 
-Choose the algorithm (AES, DES) : AES
-Enter key : aaaaaaaaaaaaaaaaaaaaaaaa
-Done! File G&M.txt is encrypted using AES - 192
-Output file is G&M.encrypted
-
- A SYMMETRIC CRYPTO SYSTEM
-======================================= 
-MAIN MENU 
-------------------------------------- 
-1. Encrypt 
-2. Decrypt 
-3. Exit 
------------------------------------------
-
-Enter your choice: 3
-BUILD SUCCESSFUL (total time: 39 seconds)
