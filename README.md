@@ -62,6 +62,7 @@ Choose the algorithm (AES, DES) : AES
 Enter key : aaaaaaaaaaaaaaaaaaaaaaaa
 Done! File G&M.txt is encrypted using AES - 192
 Output file is G&M.encrypted
+
  A SYMMETRIC CRYPTO SYSTEM
 ======================================= 
 MAIN MENU 
