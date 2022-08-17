@@ -1,11 +1,7 @@
 /*
- This repo contains Ghadah& MUTYIAH 👍 attempt to solve the project problem 
+ This repo contains Ghadah 👍 attempt to solve the project problem */
 
-Ghadah Abdulaziz Aljohani
-4051065
-MUTYIAH,YASLAM,HAMAD,ALSAIARI
-4050906
-*/
+
 
 
 package cryptographic_g_m;
