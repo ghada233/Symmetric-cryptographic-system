@@ -15,7 +15,7 @@ input_bytes, which returns an encrypted or decrypted byte array.
 
 5. Read an input file to a byte array and write the encrypted/decrypted byte array to an output file accordingly
 
->How to Run
+> How to Run
 ------------------------------------------------------
 1. Download the zip file and extract the zip file.
 2. Open Netbeans and then go to File->Open Project. Then browse the project path.
